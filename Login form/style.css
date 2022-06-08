@@ -1,0 +1,48 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+.main{
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+}
+h1{
+    text-align: center;
+}
+.bhox1{
+background-color: red;
+width: 360px;
+height: 330px;
+border-radius: 10px;
+}
+.uname{
+    color: black;
+    margin-left: 18px;
+}
+.ufield{
+  width: 90%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  margin-left: 18px;
+  display: inline-block;
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+}
+.things{
+    margin-left: 18px;
+}
+.lbutton{
+margin-top: 15px;
+margin-bottom: 15px;
+margin-left: 18px;
+background-color: black;
+color: white;
+padding: 14px 20px;
+border-radius: 10px;
+cursor: pointer;
+width: 90%;
+}
+.fpass{
+    margin-left: 18px;
+}
